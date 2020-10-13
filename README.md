@@ -1,2 +1,2 @@
-# WebBackEnd
+# WebFrontEnd
 Web Banking application GUI.
