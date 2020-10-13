@@ -1,1 +1,2 @@
-# Web Banking GUI
+# WebBackEnd
+Web Banking application GUI.
