@@ -1,1 +1,1 @@
-# MobBank-DB-Access
+# Web Banking GUI
